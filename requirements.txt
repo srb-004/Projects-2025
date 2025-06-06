@@ -1,0 +1,11 @@
+numpy
+pandas
+ipykernel
+pydantic
+python-dotenv
+langchain
+langchain-openai
+langchain-groq
+langchain-core
+langchain-community
+defusedxml
